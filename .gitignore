@@ -1,4 +1,3 @@
-# Cartelle di compilazione e file binari
 build/
 Build/
 bin/
@@ -10,16 +9,13 @@ obj/
 *.a
 *.lib
 
-# Cartelle librerie libsodium (se scaricate in locale)
 libsodium-win32/
 libsodium-win64/
 libsodium*/
 
-# File del vault creati durante i test locali
 vault.db
 vault.db.tmp
 
-# File di sistema e ide
 .vscode/
 .idea/
 *.user
