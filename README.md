@@ -125,7 +125,7 @@ This plaintext only ever exists in locked memory (`sodium_malloc`) and is never 
 
 ## License
 
-No license has been chosen for this project yet. If you intend to share or accept contributions, consider adding a `LICENSE` file (MIT is a common, permissive choice for a personal utility like this).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
